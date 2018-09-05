@@ -1,5 +1,4 @@
 # los-python-app
-Web application to consume and display sparql data
 
 Python dash app to consume and display sparql data
 
