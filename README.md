@@ -1,4 +1,8 @@
 # los-python-app
-Small Python Dash app for the Linked Open Statistics Hackathon
+Web application to consume and display sparql data
 
-L'application est visible [ici](https://los-dash-app.herokuapp.com)
+Python dash app to consume and display sparql data
+
+Example for the Linked Open Statistics Hackathon
+
+[View app](https://los-dash-app.herokuapp.com)
